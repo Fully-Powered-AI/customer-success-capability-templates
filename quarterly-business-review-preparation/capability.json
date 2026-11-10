@@ -1,0 +1,65 @@
+{
+  "id": "quarterly-business-review-preparation",
+  "name": "Quarterly business review preparation",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before each customer's quarterly review, the account manager gets a pack built on the customer's own goals: the quarter's result for each, labelled by where it came from, what is still open, next quarter's goals for discussion and a timed agenda. A person settles every question and sends it.",
+  "directory": "https://fullypowered.ai/capabilities/quarterly-business-review-preparation/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "account-handoff",
+    "renewal-risk-review",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: four source labels on every result, a fixed status rule from baseline and target, no choice between disagreeing figures, activity kept apart from results, and a person who settles every question and sends the pack."
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/customer-success/qbr-planning/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The idea of the review as the value the customer received rather than a product update: results set against the customer's own goals in the customer's terms, the customer's successes, further work mentioned only where it follows from the customer's goals, commitments from both sides at the end, and a one-hour meeting with discussion time and material sent ahead.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/customer-health/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The review kit: outcomes with their sources, usage described only from facts on record, open escalations and last review's commitments, next-phase topics, the agenda and attendees; noticing whether the account's champion has moved on and when the senior sponsor last took part; no guess where a fact is missing, a source beside every figure, working fully from supplied files, and notes treated as material to weigh rather than orders.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}

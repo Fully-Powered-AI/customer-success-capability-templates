@@ -12,12 +12,36 @@
       "directory": "https://fullypowered.ai/capabilities/account-handoff/"
     },
     {
+      "id": "churn-risk-and-save-plan",
+      "name": "Churn risk and save plan",
+      "version": "0.1.0",
+      "summary": "Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.",
+      "path": "churn-risk-and-save-plan/",
+      "directory": "https://fullypowered.ai/capabilities/churn-risk-and-save-plan/"
+    },
+    {
       "id": "client-status-update-preparation",
       "name": "Client-status update preparation",
       "version": "0.1.0",
       "summary": "Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.",
       "path": "client-status-update-preparation/",
       "directory": "https://fullypowered.ai/capabilities/client-status-update-preparation/"
+    },
+    {
+      "id": "customer-onboarding-plan",
+      "name": "Customer onboarding plan",
+      "version": "0.1.0",
+      "summary": "For every new customer, your customer success lead gets one plan for the first weeks: the result the customer must reach, the fewest milestones that get them there with an owner on each side, the promises both sides made, and each message as a draft. Nothing is sent until a person approves it.",
+      "path": "customer-onboarding-plan/",
+      "directory": "https://fullypowered.ai/capabilities/customer-onboarding-plan/"
+    },
+    {
+      "id": "quarterly-business-review-preparation",
+      "name": "Quarterly business review preparation",
+      "version": "0.1.0",
+      "summary": "Before each customer's quarterly review, the account manager gets a pack built on the customer's own goals: the quarter's result for each, labelled by where it came from, what is still open, next quarter's goals for discussion and a timed agenda. A person settles every question and sends it.",
+      "path": "quarterly-business-review-preparation/",
+      "directory": "https://fullypowered.ai/capabilities/quarterly-business-review-preparation/"
     },
     {
       "id": "renewal-risk-review",

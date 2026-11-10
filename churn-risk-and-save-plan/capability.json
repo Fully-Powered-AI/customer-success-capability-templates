@@ -1,0 +1,97 @@
+{
+  "id": "churn-risk-and-save-plan",
+  "name": "Churn risk and save plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.",
+  "directory": "https://fullypowered.ai/capabilities/churn-risk-and-save-plan/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/customer-support-and-service"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "renewal-risk-review",
+    "win-loss-review",
+    "customer-interview-synthesis"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own guide to reading why clients drift away, generalised for any organization: the pattern across leavers rather than a verdict on any account, a coverage line first, counts with the customers behind them, fair endings recorded as outcomes, one change per cause with one owner, a start-by date and an approver, and a person who decides, prices and makes every contact."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/churn-prevention/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Customers who chose to leave kept apart from those lost to failed payments; a short list of leaving reasons with a catch-all as the starting groups; a response of its own for each reason; leavers looked at by plan and by tenure; no offer made to a business that has closed; one exit question with a short list of reasons where none is collected; reminders before a card expires; leading signs read with how long before cancelling each tends to appear.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/churn-prevention/references/cancel-flow-patterns.md",
+      "licence": "MIT",
+      "contribution": "A customer who leaves in the first weeks read as one who never got going, whose remedy is help with setup rather than a price concession.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "monte-carlo-data/mc-agent-toolkit",
+      "commit": "f1ea90fa2b7fa1ece98e52a45d887c609f2a8de6",
+      "path": "skills/analyze-root-cause/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Events read in date order, with the earlier change treated as the cause of what followed; every cause rested on a record that shows it; both explanations shown when two fit.",
+      "text_reused": false,
+      "notice": "notices/monte-carlo-data-mc-agent-toolkit-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "monte-carlo-data/mc-agent-toolkit",
+      "commit": "f1ea90fa2b7fa1ece98e52a45d887c609f2a8de6",
+      "path": "skills/analyze-root-cause/references/common-root-causes.md",
+      "licence": "Apache-2.0",
+      "contribution": "The earlier cause in a chain is fixed first, with what follows from it waiting on that fix; when no known pattern fits, the finding says so rather than forcing a match.",
+      "text_reused": false,
+      "notice": "notices/monte-carlo-data-mc-agent-toolkit-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "CALLE-AI/awesome-phone-call-agents",
+      "commit": "14ab8d21081ead9063a6af5f86804bc9cdafb626",
+      "path": "skills/call-cancellation-respect-auditor/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The leaving check: a cancellation is acknowledged and carried out where it was asked, with no obstacle, no redirection to another channel, no fee and no guilt, at most one brief offer, nothing offered again after a refusal, and a plain confirmation.",
+      "text_reused": false,
+      "notice": "notices/CALLE-AI-awesome-phone-call-agents-LICENSE.txt"
+    }
+  ]
+}

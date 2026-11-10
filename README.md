@@ -2,12 +2,15 @@
 
 Clients who never have to repeat themselves. These capability templates take the handoffs and updates that hold an account together and give an AI assistant a precise way to prepare them, so every client hears from a team that knows the whole story.
 
-This repository holds 3 capability templates for customer success and account management teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 6 capability templates for customer success and account management teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
 - **[Account handoff](account-handoff/)**: The day a deal closes, your client success manager gets one record: what was sold and promised, who is involved, the dates and billing terms as agreed, the risks the seller heard and what is still missing. Every next action has an owner.
+- **[Churn risk and save plan](churn-risk-and-save-plan/)**: Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.
 - **[Client-status update preparation](client-status-update-preparation/)**: Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.
+- **[Customer onboarding plan](customer-onboarding-plan/)**: For every new customer, your customer success lead gets one plan for the first weeks: the result the customer must reach, the fewest milestones that get them there with an owner on each side, the promises both sides made, and each message as a draft. Nothing is sent until a person approves it.
+- **[Quarterly business review preparation](quarterly-business-review-preparation/)**: Before each customer's quarterly review, the account manager gets a pack built on the customer's own goals: the quarter's result for each, labelled by where it came from, what is still open, next quarter's goals for discussion and a timed agenda. A person settles every question and sends it.
 - **[Renewal risk review](renewal-risk-review/)**: Once a month, the account manager sees every contract coming up for renewal on one page: the dates that matter, the warning signs your organization watches for, which accounts are at risk, and the next step for each with an owner and a date. A person decides and makes every contact.
 
 ## How to use one
