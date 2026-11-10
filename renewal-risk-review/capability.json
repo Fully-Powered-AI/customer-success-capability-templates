@@ -1,0 +1,56 @@
+{
+  "id": "renewal-risk-review",
+  "name": "Renewal risk review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Once a month, the account manager sees every contract coming up for renewal on one page: the dates that matter, the warning signs your organization watches for, which accounts are at risk, and the next step for each with an owner and a date. A person decides and makes every contact.",
+  "directory": "https://fullypowered.ai/capabilities/renewal-risk-review/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "account-handoff",
+    "client-status-update-preparation",
+    "stalled-deal-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: the organization's own settings as the only authority, the notice date as the deadline, every next step with one owner and one due date, and a person who decides and makes every contact."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/renewal-radar",
+      "licence": "Apache-2.0",
+      "contribution": "The method this template adapts: a default look-ahead of 120 days over contracts or renewals; warning signs (quiet accounts, a changed contact or signer, open escalations, falling usage, expansion talk, automatic or multi-year terms) that raise or lower each renewal's risk; a three-way verdict shown with its evidence; the next move for each account at risk; expansion candidates; record problems such as missing amounts or dates after the contract end; telling a blank value from one never read; working from an uploaded export, anchoring dates on a stated day, and working a renewal's dates back from the contract end.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}
