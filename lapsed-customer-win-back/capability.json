@@ -1,0 +1,66 @@
+{
+  "id": "lapsed-customer-win-back",
+  "name": "Lapsed-customer win-back",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Once a month, the owner or account manager sees which regular customers have gone far longer than usual without ordering, ranked by what each bought in their last active year, with open complaints set aside for a call and a short note drafted for the rest, using only approved offers. A person approves every note.",
+  "directory": "https://fullypowered.ai/capabilities/lapsed-customer-win-back/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "churn-risk-and-save-plan",
+    "renewal-risk-review",
+    "complaint-and-refund-request-handling"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: each customer's usual gap as the middle of their recent gaps, a floor below which nobody counts as lapsed, the slipping and long-gone groups, an approved-offer list with value bands as the only source of offers, every left-out customer listed with its reason, and a person who approves and sends every note."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/reactivate/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The win-back method this template adapts: a quiet customer judged against their own buying pattern, ranking by past value, a check of the order dates before any gap is worked out, a customer with a complaint routed to a phone call, a person confirming the list and the offer before drafting, offers limited to those the owner has accepted, a first message that asks about the pause instead of selling, and notes built from the customer's actual orders.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/win-back-reactivation/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Lapse defined as twice a customer's typical gap between orders, offers tiered by the customer's past spend, no discount in the opening message, a waiting period before the same customer is written to again, and checks on consent and on any order placed since before each message goes out.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    }
+  ]
+}
