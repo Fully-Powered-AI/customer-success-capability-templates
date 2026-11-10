@@ -1,0 +1,23 @@
+{
+  "repository": "Fully-Powered-AI/customer-success-capabilities",
+  "title": "Customer Success",
+  "term": "functions/customer-success-and-account-management",
+  "capabilities": [
+    {
+      "id": "account-handoff",
+      "name": "Account handoff",
+      "version": "0.1.0",
+      "summary": "The day a deal closes, your client success manager gets one record: what was sold and promised, who is involved, the dates and billing terms as agreed, the risks the seller heard and what is still missing. Every next action has an owner.",
+      "path": "account-handoff/",
+      "directory": "https://fullypowered.ai/capabilities/account-handoff/"
+    },
+    {
+      "id": "client-status-update-preparation",
+      "name": "Client-status update preparation",
+      "version": "0.1.0",
+      "summary": "Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.",
+      "path": "client-status-update-preparation/",
+      "directory": "https://fullypowered.ai/capabilities/client-status-update-preparation/"
+    }
+  ]
+}
