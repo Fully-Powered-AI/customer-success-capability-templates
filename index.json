@@ -20,6 +20,14 @@
       "directory": "https://fullypowered.ai/capabilities/account-handoff/"
     },
     {
+      "id": "cancellation-request-response",
+      "name": "Cancellation request response",
+      "version": "0.1.0",
+      "summary": "When a customer asks to cancel or cut back, the account manager gets one page: the request and the reason in the customer's words, the account's recent history, only the options your business already approved that fit that reason, and a reply that confirms the choice and what happens next. A person sends it.",
+      "path": "cancellation-request-response/",
+      "directory": "https://fullypowered.ai/capabilities/cancellation-request-response/"
+    },
+    {
       "id": "churn-risk-and-save-plan",
       "name": "Churn risk and save plan",
       "version": "0.1.0",

@@ -2,12 +2,13 @@
 
 Clients who never have to repeat themselves. These capability templates take the handoffs and updates that hold an account together and give an AI assistant a precise way to prepare them, so every client hears from a team that knows the whole story.
 
-This repository holds 10 capability templates for customer success and account management teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 11 capability templates for customer success and account management teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
 - **[Account commitments check](account-commitments-check/)**: Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.
 - **[Account handoff](account-handoff/)**: The day a deal closes, your client success manager gets one record: what was sold and promised, who is involved, the dates and billing terms as agreed, the risks the seller heard and what is still missing. Every next action has an owner.
+- **[Cancellation request response](cancellation-request-response/)**: When a customer asks to cancel or cut back, the account manager gets one page: the request and the reason in the customer's words, the account's recent history, only the options your business already approved that fit that reason, and a reply that confirms the choice and what happens next. A person sends it.
 - **[Churn risk and save plan](churn-risk-and-save-plan/)**: Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.
 - **[Client-status update preparation](client-status-update-preparation/)**: Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.
 - **[Customer onboarding plan](customer-onboarding-plan/)**: For every new customer, your customer success lead gets one plan for the first weeks: the result the customer must reach, the fewest milestones that get them there with an owner on each side, the promises both sides made, and each message as a draft. Nothing is sent until a person approves it.

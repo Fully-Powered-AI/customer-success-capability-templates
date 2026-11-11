@@ -1,0 +1,67 @@
+{
+  "id": "cancellation-request-response",
+  "name": "Cancellation request response",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a customer asks to cancel or cut back, the account manager gets one page: the request and the reason in the customer's words, the account's recent history, only the options your business already approved that fit that reason, and a reply that confirms the choice and what happens next. A person sends it.",
+  "directory": "https://fullypowered.ai/capabilities/cancellation-request-response/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/customer-support-and-service"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "churn-risk-and-save-plan",
+    "renewal-risk-review",
+    "customer-reply-drafting"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's published map of customer success work, which sets out who starts a cancellation response, what goes in, what comes out and who decides: the account manager chooses what to offer from options already approved and confirms the outcome with the service owner, and an offer never delays or overrides the customer's choice."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/churn-prevention/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A brief list of reasons for leaving, ending in a catch-all, as the starting categories; a separate remedy suited to each category; no remedy put to a business that has shut; the pairing of remedies with causes, such as a cheaper tier for a cost worry, a break for a seasonal lull and setup help for light use.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "CALLE-AI/awesome-phone-call-agents",
+      "commit": "14ab8d21081ead9063a6af5f86804bc9cdafb626",
+      "path": "skills/call-cancellation-respect-auditor/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The standard applied at the moment a customer says they are leaving: the wish is honoured in the channel where it was voiced, with no hurdle, no push to another channel, no charge and no guilt, a single short alternative at most, nothing raised again once declined, and a plain acknowledgement.",
+      "text_reused": false,
+      "notice": "notices/CALLE-AI-awesome-phone-call-agents-LICENSE.txt"
+    }
+  ]
+}
