@@ -1,0 +1,47 @@
+{
+  "id": "feedback-follow-through-updates",
+  "name": "Feedback follow-through updates",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a change ships or a decision lands on something customers asked for, your account owner gets the list of who asked, the confirmed status of each request, and an individual draft update for each person in the channel they prefer. No update promises a date or feature the team has not confirmed.",
+  "directory": "https://fullypowered.ai/capabilities/feedback-follow-through-updates/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "customer-feedback-themes",
+    "customer-satisfaction-detractor-follow-up",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of customer success work: the reader, trigger, inputs, output and decision for telling customers what happened to their feedback, and the method, rules, stop conditions, output format, tests and worked example written from how that work is done."
+    }
+  ]
+}

@@ -4,6 +4,14 @@
   "term": "functions/customer-success-and-account-management",
   "capabilities": [
     {
+      "id": "account-commitments-check",
+      "name": "Account commitments check",
+      "version": "0.1.0",
+      "summary": "Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.",
+      "path": "account-commitments-check/",
+      "directory": "https://fullypowered.ai/capabilities/account-commitments-check/"
+    },
+    {
       "id": "account-handoff",
       "name": "Account handoff",
       "version": "0.1.0",
@@ -42,6 +50,14 @@
       "summary": "For one account or a whole book, the account manager sees what each customer holds against what it could also use, the evidence for every gap, the plays ranked, and one next step and owner for each. A person decides what to propose; nothing goes into the sales system without approval.",
       "path": "expansion-whitespace-review/",
       "directory": "https://fullypowered.ai/capabilities/expansion-whitespace-review/"
+    },
+    {
+      "id": "feedback-follow-through-updates",
+      "name": "Feedback follow-through updates",
+      "version": "0.1.0",
+      "summary": "When a change ships or a decision lands on something customers asked for, your account owner gets the list of who asked, the confirmed status of each request, and an individual draft update for each person in the channel they prefer. No update promises a date or feature the team has not confirmed.",
+      "path": "feedback-follow-through-updates/",
+      "directory": "https://fullypowered.ai/capabilities/feedback-follow-through-updates/"
     },
     {
       "id": "lapsed-customer-win-back",

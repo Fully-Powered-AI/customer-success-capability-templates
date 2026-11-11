@@ -1,0 +1,47 @@
+{
+  "id": "account-commitments-check",
+  "name": "Account commitments check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.",
+  "directory": "https://fullypowered.ai/capabilities/account-commitments-check/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "quarterly-business-review-preparation",
+    "account-handoff",
+    "sales-call-preparation-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of customer success and account management work."
+    }
+  ]
+}
