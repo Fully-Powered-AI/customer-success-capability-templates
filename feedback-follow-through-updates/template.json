@@ -1,10 +1,10 @@
 {
   "id": "feedback-follow-through-updates",
   "name": "Feedback follow-through updates",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a change ships or a decision lands on something customers asked for, your account owner gets the list of who asked, the confirmed status of each request, and an individual draft update for each person in the channel they prefer. No update promises a date or feature the team has not confirmed.",
-  "directory": "https://fullypowered.ai/capabilities/feedback-follow-through-updates/",
+  "directory": "https://fullypowered.ai/workflow templates/feedback-follow-through-updates/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management",

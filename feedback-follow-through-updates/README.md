@@ -2,7 +2,7 @@
 
 When a change ships or a decision lands on something customers asked for, your account owner gets the list of who asked, the confirmed status of each request, and an individual draft update for each person in the channel they prefer. No update promises a date or feature the team has not confirmed.
 
-*Capability template · Customer success and account management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/feedback-follow-through-updates/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/feedback-follow-through-updates/)*
 
 ## The outcome
 
@@ -48,11 +48,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when requests outnumber the account owner's memory of who asked for what.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a long feedback backlog has customers who have never heard back.
 
-It sits between two other capabilities. [Customer feedback themes](https://fullypowered.ai/capabilities/customer-feedback-themes/) finds what customers keep asking for; [Customer satisfaction detractor follow-up](https://fullypowered.ai/capabilities/customer-satisfaction-detractor-follow-up/) follows up low scores. This one answers each person who asked once a change or decision lands.
+It sits between two other workflow templates. [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/) finds what customers keep asking for; [Customer satisfaction detractor follow-up](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/) follows up low scores. This one answers each person who asked once a change or decision lands.
 
 ## What has to change for your company
 
-- **Your columns.** Map your feedback tool's and contact list's headers to the defaults once; the capability stops and asks when a header does not match.
+- **Your columns.** Map your feedback tool's and contact list's headers to the defaults once; the workflow template stops and asks when a header does not match.
 - **The change record.** Agree who on the product or service team fills it in and confirms it, and where it is kept.
 - **Your status words,** if you already use others with customers.
 - **The words that hold a request** for the account owner, such as your own terms for escalations.
@@ -61,9 +61,9 @@ It sits between two other capabilities. [Customer feedback themes](https://fully
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second, made on the instructions as revised after the first, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second, made on the instructions as revised after the first, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a change your team shipped recently, with hard cases written in advance: a person who asked twice, a customer who has opted out, a request tied to a renewal, an internal target date in the record, an export with a renamed column. The account owner checks every draft against the change record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a change your team shipped recently, with hard cases written in advance: a person who asked twice, a customer who has opted out, a request tied to a renewal, an internal target date in the record, an export with a renamed column. The account owner checks every draft against the change record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -74,11 +74,11 @@ Testing in your environment means running it on a change your team shipped recen
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -88,12 +88,12 @@ Testing in your environment means running it on a change your team shipped recen
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Customer feedback themes](https://fullypowered.ai/capabilities/customer-feedback-themes/)
-- [Customer satisfaction detractor follow-up](https://fullypowered.ai/capabilities/customer-satisfaction-detractor-follow-up/)
+- [Customer feedback themes](https://fullypowered.ai/workflow templates/customer-feedback-themes/)
+- [Customer satisfaction detractor follow-up](https://fullypowered.ai/workflow templates/customer-satisfaction-detractor-follow-up/)
 - [Client-status update preparation](../client-status-update-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,6 +1,6 @@
 # Feedback follow-through updates: an invented example
 
-*Illustrative example with invented data.* Company A, the customers, the people, the requests and the dates below are all invented. Company A is an invented 40-person company that sells visit-scheduling software to cleaning and maintenance businesses. Its product team shipped a spreadsheet export that several customers had asked for. Jo Harlan, an account manager, supplied the inputs below in full on Wednesday 4 November 2026; the follow-through the capability returned comes after them.
+*Illustrative example with invented data.* Company A, the customers, the people, the requests and the dates below are all invented. Company A is an invented 40-person company that sells visit-scheduling software to cleaning and maintenance businesses. Its product team shipped a spreadsheet export that several customers had asked for. Jo Harlan, an account manager, supplied the inputs below in full on Wednesday 4 November 2026; the follow-through the workflow template returned comes after them.
 
 ## The inputs
 

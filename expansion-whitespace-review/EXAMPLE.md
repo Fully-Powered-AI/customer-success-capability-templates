@@ -1,6 +1,6 @@
 # Expansion whitespace review: an invented example
 
-*Illustrative example with invented data.* The company, its customers, the people, the dates and the amounts below are all invented. The company is an invented 45-person business that sells maintenance software to property managers and facilities teams, priced per user, per site or per account. Its account team is a head of customer success and two account managers; a sales operations lead keeps the sales system. Account manager 1 ran the review for their own book. First come the inputs they supplied, in full, then the page the capability returned.
+*Illustrative example with invented data.* The company, its customers, the people, the dates and the amounts below are all invented. The company is an invented 45-person business that sells maintenance software to property managers and facilities teams, priced per user, per site or per account. Its account team is a head of customer success and two account managers; a sales operations lead keeps the sales system. Account manager 1 ran the review for their own book. First come the inputs they supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

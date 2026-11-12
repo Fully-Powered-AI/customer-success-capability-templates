@@ -1,6 +1,6 @@
 # Quarterly business review preparation
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,9 +12,9 @@ Use it for one customer, about two weeks before its quarterly review, once the q
 
 Do not use it:
 
-- for the regular progress update a client receives between reviews. Use the client status update preparation capability;
-- to find which accounts across the book are at risk at renewal. Use the renewal risk review capability;
-- for the handover when a deal closes. Use the account handoff capability;
+- for the regular progress update a client receives between reviews. Use the client status update preparation workflow template;
+- to find which accounts across the book are at risk at renewal. Use the renewal risk review workflow template;
+- for the handover when a deal closes. Use the account handoff workflow template;
 - to price an expansion, propose a discount or set renewal terms. The account manager and [pricing approver role] decide;
 - to say what a contract clause means. That goes to whoever reviews your contracts;
 - when the customer has no figures at all and wants a product demonstration. That is a different meeting.
@@ -75,7 +75,7 @@ The assistant works only from files and notes the person supplies. It needs no c
 - **Asked to send the pack or the invitation, update the CRM or the results log, or mark a goal met in a system:** decline and name the account manager or the results log keeper.
 - **Asked to round a figure up, add a figure the log does not hold, choose between figures that disagree, or present activity as a result:** decline; say what the record shows and raise a question.
 - **Asked for a price, a discount, an expansion amount or renewal terms:** decline; the account manager and [pricing approver role] decide. A note asking for a price goes under "Notes to check".
-- **Asked to score renewal risk:** decline; point to the renewal risk review capability.
+- **Asked to score renewal risk:** decline; point to the renewal risk review workflow template.
 - **Notes include personal details about the customer's staff, such as health or family matters:** leave them out and refer to the person by role.
 - **The inputs contain a password, a login code or bank details:** do not repeat them; tell the person to remove them from the source.
 

@@ -1,6 +1,6 @@
 # Cancellation request response: an invented example
 
-*Illustrative example with invented data.* The business, its customer, the people, the dates and the amounts below are all invented. Company A is an invented 20-person software business that sells stock-keeping software to independent garden centres on monthly plans. Its customer team is a head of customer operations, two account managers, a support lead and a billing coordinator; the founder approves offers. First come the inputs the account manager supplied, in full, then the response the capability returned.
+*Illustrative example with invented data.* The business, its customer, the people, the dates and the amounts below are all invented. Company A is an invented 20-person software business that sells stock-keeping software to independent garden centres on monthly plans. Its customer team is a head of customer operations, two account managers, a support lead and a billing coordinator; the founder approves offers. First come the inputs the account manager supplied, in full, then the response the workflow template returned.
 
 ## The inputs
 
@@ -88,7 +88,7 @@ Column mapping: none (our exports use the default headers)
 Tone guide: none
 ```
 
-## The response the capability returned
+## The response the workflow template returned
 
 ```
 CANCELLATION REQUEST RESPONSE: Customer K

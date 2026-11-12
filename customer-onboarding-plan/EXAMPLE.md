@@ -1,6 +1,6 @@
 # Customer onboarding plan: an invented example
 
-*Illustrative example with invented data.* The companies, the people, the dates and the notes below are all invented. The seller is an invented 30-person company that sells time-tracking and invoicing software to small design and architecture studios. Its new customer, Customer K, is an invented 18-person architecture studio. First come the four inputs the customer success lead supplied, in full, then the plan the capability returned. This is a first run, so there is no status update yet.
+*Illustrative example with invented data.* The companies, the people, the dates and the notes below are all invented. The seller is an invented 30-person company that sells time-tracking and invoicing software to small design and architecture studios. Its new customer, Customer K, is an invented 18-person architecture studio. First come the four inputs the customer success lead supplied, in full, then the plan the workflow template returned. This is a first run, so there is no status update yet.
 
 ## The inputs
 

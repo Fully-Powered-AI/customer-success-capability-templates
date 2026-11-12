@@ -1,6 +1,6 @@
 # Quarterly business review preparation: an invented example
 
-*Illustrative example with invented data.* The companies, the people, the dates and the figures below are all invented. The company preparing the review is an invented 50-person business that sells route-planning and dispatch software to field-service firms. Its customer, Customer K, is an invented plumbing and heating firm with three depots. Customer K's account manager prepared the pack for the third-quarter review. First come the inputs the account manager supplied, in full, then the pack the capability returned.
+*Illustrative example with invented data.* The companies, the people, the dates and the figures below are all invented. The company preparing the review is an invented 50-person business that sells route-planning and dispatch software to field-service firms. Its customer, Customer K, is an invented plumbing and heating firm with three depots. Customer K's account manager prepared the pack for the third-quarter review. First come the inputs the account manager supplied, in full, then the pack the workflow template returned.
 
 ## The inputs
 

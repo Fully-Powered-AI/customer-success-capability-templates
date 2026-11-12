@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/customer-success-capability-templates",
+  "repository": "Fully-Powered-AI/customer-success-workflow-templates",
   "title": "Customer Success",
   "term": "functions/customer-success-and-account-management",
-  "capabilities": [
+  "templates": [
     {
       "id": "account-commitments-check",
       "name": "Account commitments check",
       "version": "0.1.0",
       "summary": "Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.",
       "path": "account-commitments-check/",
-      "directory": "https://fullypowered.ai/capabilities/account-commitments-check/"
+      "directory": "https://fullypowered.ai/workflow templates/account-commitments-check/"
     },
     {
       "id": "account-handoff",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "The day a deal closes, your client success manager gets one record: what was sold and promised, who is involved, the dates and billing terms as agreed, the risks the seller heard and what is still missing. Every next action has an owner.",
       "path": "account-handoff/",
-      "directory": "https://fullypowered.ai/capabilities/account-handoff/"
+      "directory": "https://fullypowered.ai/workflow templates/account-handoff/"
     },
     {
       "id": "cancellation-request-response",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "When a customer asks to cancel or cut back, the account manager gets one page: the request and the reason in the customer's words, the account's recent history, only the options your business already approved that fit that reason, and a reply that confirms the choice and what happens next. A person sends it.",
       "path": "cancellation-request-response/",
-      "directory": "https://fullypowered.ai/capabilities/cancellation-request-response/"
+      "directory": "https://fullypowered.ai/workflow templates/cancellation-request-response/"
     },
     {
       "id": "churn-risk-and-save-plan",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.",
       "path": "churn-risk-and-save-plan/",
-      "directory": "https://fullypowered.ai/capabilities/churn-risk-and-save-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/churn-risk-and-save-plan/"
     },
     {
       "id": "client-status-update-preparation",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.",
       "path": "client-status-update-preparation/",
-      "directory": "https://fullypowered.ai/capabilities/client-status-update-preparation/"
+      "directory": "https://fullypowered.ai/workflow templates/client-status-update-preparation/"
     },
     {
       "id": "customer-onboarding-plan",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "For every new customer, your customer success lead gets one plan for the first weeks: the result the customer must reach, the fewest milestones that get them there with an owner on each side, the promises both sides made, and each message as a draft. Nothing is sent until a person approves it.",
       "path": "customer-onboarding-plan/",
-      "directory": "https://fullypowered.ai/capabilities/customer-onboarding-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/customer-onboarding-plan/"
     },
     {
       "id": "expansion-whitespace-review",
@@ -57,7 +57,7 @@
       "version": "0.1.0",
       "summary": "For one account or a whole book, the account manager sees what each customer holds against what it could also use, the evidence for every gap, the plays ranked, and one next step and owner for each. A person decides what to propose; nothing goes into the sales system without approval.",
       "path": "expansion-whitespace-review/",
-      "directory": "https://fullypowered.ai/capabilities/expansion-whitespace-review/"
+      "directory": "https://fullypowered.ai/workflow templates/expansion-whitespace-review/"
     },
     {
       "id": "feedback-follow-through-updates",
@@ -65,7 +65,7 @@
       "version": "0.1.0",
       "summary": "When a change ships or a decision lands on something customers asked for, your account owner gets the list of who asked, the confirmed status of each request, and an individual draft update for each person in the channel they prefer. No update promises a date or feature the team has not confirmed.",
       "path": "feedback-follow-through-updates/",
-      "directory": "https://fullypowered.ai/capabilities/feedback-follow-through-updates/"
+      "directory": "https://fullypowered.ai/workflow templates/feedback-follow-through-updates/"
     },
     {
       "id": "lapsed-customer-win-back",
@@ -73,7 +73,7 @@
       "version": "0.1.0",
       "summary": "Once a month, the owner or account manager sees which regular customers have gone far longer than usual without ordering, ranked by what each bought in their last active year, with open complaints set aside for a call and a short note drafted for the rest, using only approved offers. A person approves every note.",
       "path": "lapsed-customer-win-back/",
-      "directory": "https://fullypowered.ai/capabilities/lapsed-customer-win-back/"
+      "directory": "https://fullypowered.ai/workflow templates/lapsed-customer-win-back/"
     },
     {
       "id": "quarterly-business-review-preparation",
@@ -81,7 +81,7 @@
       "version": "0.1.0",
       "summary": "Before each customer's quarterly review, the account manager gets a pack built on the customer's own goals: the quarter's result for each, labelled by where it came from, what is still open, next quarter's goals for discussion and a timed agenda. A person settles every question and sends it.",
       "path": "quarterly-business-review-preparation/",
-      "directory": "https://fullypowered.ai/capabilities/quarterly-business-review-preparation/"
+      "directory": "https://fullypowered.ai/workflow templates/quarterly-business-review-preparation/"
     },
     {
       "id": "renewal-risk-review",
@@ -89,7 +89,7 @@
       "version": "0.1.0",
       "summary": "Once a month, the account manager sees every contract coming up for renewal on one page: the dates that matter, the warning signs your organization watches for, which accounts are at risk, and the next step for each with an owner and a date. A person decides and makes every contact.",
       "path": "renewal-risk-review/",
-      "directory": "https://fullypowered.ai/capabilities/renewal-risk-review/"
+      "directory": "https://fullypowered.ai/workflow templates/renewal-risk-review/"
     }
   ]
 }

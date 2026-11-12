@@ -2,7 +2,7 @@
 
 Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.
 
-*Capability template · Customer success and account management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/account-commitments-check/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/account-commitments-check/)*
 
 ## The outcome
 
@@ -41,7 +41,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): more accounts per manager means more promises held only in memory.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/): long relationships carry promises from before the current team.
 
-It is separate from [meeting agenda, notes and follow-ups](https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/), which serves one internal meeting, and from [quarterly business review preparation](https://fullypowered.ai/capabilities/quarterly-business-review-preparation/), which builds the review around the customer's goals. It is also separate from the [sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/), which is a sales brief for one prospect that includes what has been said and promised so far; this is a two-sided list of promises with a status for each, for an existing customer. [Account handoff](https://fullypowered.ai/capabilities/account-handoff/) records what was promised in the sale.
+It is separate from [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/), which serves one internal meeting, and from [quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/), which builds the review around the customer's goals. It is also separate from the [sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which is a sales brief for one prospect that includes what has been said and promised so far; this is a two-sided list of promises with a status for each, for an existing customer. [Account handoff](https://fullypowered.ai/workflows/account-handoff/) records what was promised in the sale.
 
 ## What has to change for your company
 
@@ -49,9 +49,9 @@ Decide how far back the period reaches and where the notes live. Set the owner y
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an account whose history your account manager already knows, with cases agreed first: a promise whose date moved, a promise kept but never written down, a hopeful remark, a note with no speaker named. The account manager checks every line against its source before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on an account whose history your account manager already knows, with cases agreed first: a promise whose date moved, a promise kept but never written down, a hopeful remark, a note with no speaker named. The account manager checks every line against its source before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -62,11 +62,11 @@ Testing in your environment means running it on an account whose history your ac
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,13 +76,13 @@ Testing in your environment means running it on an account whose history your ac
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
 - [Quarterly business review preparation](../quarterly-business-review-preparation/)
 - [Account handoff](../account-handoff/)
-- [Sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/)
+- [Sales call preparation brief](https://fullypowered.ai/workflow templates/sales-call-preparation-brief/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

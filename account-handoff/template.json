@@ -1,10 +1,10 @@
 {
   "id": "account-handoff",
   "name": "Account handoff",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The day a deal closes, your client success manager gets one record: what was sold and promised, who is involved, the dates and billing terms as agreed, the risks the seller heard and what is still missing. Every next action has an owner.",
-  "directory": "https://fullypowered.ai/capabilities/account-handoff/",
+  "directory": "https://fullypowered.ai/workflow templates/account-handoff/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management",

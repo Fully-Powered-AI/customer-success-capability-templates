@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-This is one run of the capability template on its own invented example. The inputs are the invented ones in [`example.md`](example.md), under "The inputs" (settings, facts, leaver list and notes). No client data was used. The run was made by a model that did not write the template. It read the template's instructions and the example's inputs first, produced the plan, and only then read the example's published plan and the reviewer checklist and compared them. It is a single run, not a test in a real environment.
+This is one run of the workflow template on its own invented example. The inputs are the invented ones in [`example.md`](example.md), under "The inputs" (settings, facts, leaver list and notes). No client data was used. The run was made by a model that did not write the template. It read the template's instructions and the example's inputs first, produced the plan, and only then read the example's published plan and the reviewer checklist and compared them. It is a single run, not a test in a real environment.
 
 Caveat on independence: the template's own acceptance tests describe several of the same situations as the example (a ticket with no stated reason, a customer moving to a new parent company's system, a note asking for an end date to be moved, a request for a 50% win-back email). The run read them before working, so how it handled those cases was guided by the tests as well as by the instructions.
 

@@ -1,6 +1,6 @@
 # Lapsed-customer win-back: an invented example
 
-*Illustrative example with invented data.* The company, its customers, the people, the orders, the dates and the amounts below are all invented. The company is an invented 20-person business that makes cleaning and hygiene products and sells them on trade accounts to cafés, gyms, salons and small offices. Its account team is the owner and two account managers; an operations coordinator keeps the customer list and runs the exports. First come the inputs the owner supplied, in full, then the list the capability returned.
+*Illustrative example with invented data.* The company, its customers, the people, the orders, the dates and the amounts below are all invented. The company is an invented 20-person business that makes cleaning and hygiene products and sells them on trade accounts to cafés, gyms, salons and small offices. Its account team is the owner and two account managers; an operations coordinator keeps the customer list and runs the exports. First come the inputs the owner supplied, in full, then the list the workflow template returned.
 
 ## The inputs
 
