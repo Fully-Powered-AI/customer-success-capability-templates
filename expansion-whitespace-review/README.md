@@ -2,7 +2,7 @@
 
 For one account or a whole book, the account manager sees what each customer holds against what it could also use, the evidence for every gap, the plays ranked, and one next step and owner for each. A person decides what to propose; nothing goes into the sales system without approval.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/expansion-whitespace-review/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/expansion-whitespace-review/)*
 
 ## The outcome
 
@@ -78,7 +78,7 @@ Testing in your environment means running it on a past quarter's book whose expa
 
 - [Renewal risk review](../renewal-risk-review/)
 - [Quarterly business review preparation](../quarterly-business-review-preparation/)
-- [Sales pipeline review](https://fullypowered.ai/workflow templates/sales-pipeline-review/)
+- [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/)
 
 ## Make it yours
 

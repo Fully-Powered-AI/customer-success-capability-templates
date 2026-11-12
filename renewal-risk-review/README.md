@@ -2,7 +2,7 @@
 
 Once a month, the account manager sees every contract coming up for renewal on one page: the dates that matter, the warning signs your organization watches for, which accounts are at risk, and the next step for each with an owner and a date. A person decides and makes every contact.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/renewal-risk-review/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/renewal-risk-review/)*
 
 ## The outcome
 
@@ -78,7 +78,7 @@ Testing in your environment means running it on two or three past months whose r
 
 - [Account handoff](../account-handoff/)
 - [Client-status update preparation](../client-status-update-preparation/)
-- [Stalled-deal review](https://fullypowered.ai/workflow templates/stalled-deal-review/)
+- [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 When a customer asks to cancel or cut back, the account manager gets one page: the request and the reason in the customer's words, the account's recent history, only the options your business already approved that fit that reason, and a reply that confirms the choice and what happens next. A person sends it.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/cancellation-request-response/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cancellation-request-response/)*
 
 ## The outcome
 
@@ -80,7 +80,7 @@ Testing in your environment means running it on past requests your account team 
 
 - [Churn risk and save plan](../churn-risk-and-save-plan/)
 - [Renewal risk review](../renewal-risk-review/)
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
 
 ## Make it yours
 

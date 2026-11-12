@@ -2,7 +2,7 @@
 
 The day a deal closes, your client success manager gets one record: what was sold and promised, who is involved, the dates and billing terms as agreed, the risks the seller heard and what is still missing. Every next action has an owner.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/account-handoff/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-handoff/)*
 
 ## The outcome
 
@@ -79,7 +79,7 @@ Testing in your environment means running it on recently closed deals, plus hard
 
 ## Related workflow templates
 
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
 - [Client-status update preparation](../client-status-update-preparation/)
 
 ## Make it yours

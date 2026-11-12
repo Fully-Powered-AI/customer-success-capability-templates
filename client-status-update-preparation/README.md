@@ -2,7 +2,7 @@
 
 Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-status-update-preparation/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-status-update-preparation/)*
 
 ## The outcome
 
@@ -78,7 +78,7 @@ Testing in your firm means drafting updates for recent weeks and comparing them 
 ## Related workflow templates
 
 - [Account handoff](../account-handoff/)
-- [Weekly receivables summary](https://fullypowered.ai/workflow templates/weekly-receivables-summary/)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
 
 ## Make it yours
 

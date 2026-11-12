@@ -2,7 +2,7 @@
 
 For every new customer, your customer success lead gets one plan for the first weeks: the result the customer must reach, the fewest milestones that get them there with an owner on each side, the promises both sides made, and each message as a draft. Nothing is sent until a person approves it.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/customer-onboarding-plan/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-onboarding-plan/)*
 
 ## The outcome
 

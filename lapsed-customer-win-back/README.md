@@ -2,7 +2,7 @@
 
 Once a month, the owner or account manager sees which regular customers have gone far longer than usual without ordering, ranked by what each bought in their last active year, with open complaints set aside for a call and a short note drafted for the rest, using only approved offers. A person approves every note.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lapsed-customer-win-back/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lapsed-customer-win-back/)*
 
 ## The outcome
 
@@ -81,7 +81,7 @@ Testing in your environment means running it on a past month whose customers you
 
 - [Churn risk and save plan](../churn-risk-and-save-plan/)
 - [Renewal risk review](../renewal-risk-review/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflow templates/complaint-and-refund-request-handling/)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
 
 ## Make it yours
 

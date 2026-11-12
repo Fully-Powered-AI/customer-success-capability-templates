@@ -2,7 +2,7 @@
 
 Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/churn-risk-and-save-plan/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/churn-risk-and-save-plan/)*
 
 ## The outcome
 
@@ -80,8 +80,8 @@ Testing in your environment means running it on a past quarter whose leavers you
 ## Related workflow templates
 
 - [Renewal risk review](../renewal-risk-review/)
-- [Win-loss review](https://fullypowered.ai/workflow templates/win-loss-review/)
-- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
+- [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
 
 ## Make it yours
 

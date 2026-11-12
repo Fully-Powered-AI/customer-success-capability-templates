@@ -2,7 +2,7 @@
 
 Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/account-commitments-check/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-commitments-check/)*
 
 ## The outcome
 
@@ -78,10 +78,10 @@ Testing in your environment means running it on an account whose history your ac
 
 ## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
 - [Quarterly business review preparation](../quarterly-business-review-preparation/)
 - [Account handoff](../account-handoff/)
-- [Sales call preparation brief](https://fullypowered.ai/workflow templates/sales-call-preparation-brief/)
+- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/)
 
 ## Make it yours
 

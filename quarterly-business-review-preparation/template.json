@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before each customer's quarterly review, the account manager gets a pack built on the customer's own goals: the quarter's result for each, labelled by where it came from, what is still open, next quarter's goals for discussion and a timed agenda. A person settles every question and sends it.",
-  "directory": "https://fullypowered.ai/workflow templates/quarterly-business-review-preparation/",
+  "directory": "https://fullypowered.ai/workflows/quarterly-business-review-preparation/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management"

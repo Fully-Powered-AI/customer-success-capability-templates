@@ -2,7 +2,7 @@
 
 When a change ships or a decision lands on something customers asked for, your account owner gets the list of who asked, the confirmed status of each request, and an individual draft update for each person in the channel they prefer. No update promises a date or feature the team has not confirmed.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/feedback-follow-through-updates/)*
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/feedback-follow-through-updates/)*
 
 ## The outcome
 
@@ -90,8 +90,8 @@ Testing in your environment means running it on a change your team shipped recen
 
 ## Related workflow templates
 
-- [Customer feedback themes](https://fullypowered.ai/workflow templates/customer-feedback-themes/)
-- [Customer satisfaction detractor follow-up](https://fullypowered.ai/workflow templates/customer-satisfaction-detractor-follow-up/)
+- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)
+- [Customer satisfaction detractor follow-up](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/)
 - [Client-status update preparation](../client-status-update-preparation/)
 
 ## Make it yours

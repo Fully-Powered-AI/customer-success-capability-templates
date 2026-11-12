@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.",
-  "directory": "https://fullypowered.ai/workflow templates/account-commitments-check/",
+  "directory": "https://fullypowered.ai/workflows/account-commitments-check/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management"

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.",
-  "directory": "https://fullypowered.ai/workflow templates/churn-risk-and-save-plan/",
+  "directory": "https://fullypowered.ai/workflows/churn-risk-and-save-plan/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management",

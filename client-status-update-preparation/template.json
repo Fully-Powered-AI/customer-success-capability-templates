@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.",
-  "directory": "https://fullypowered.ai/workflow templates/client-status-update-preparation/",
+  "directory": "https://fullypowered.ai/workflows/client-status-update-preparation/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management",
