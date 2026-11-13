@@ -20,6 +20,14 @@
       "directory": "https://fullypowered.ai/workflows/account-handoff/"
     },
     {
+      "id": "account-health-review",
+      "name": "Account health review across the book",
+      "version": "0.1.0",
+      "summary": "Each week or month, the customer success lead sees which accounts in the book need attention, what changed since the last period and the evidence, judged by your own warning signs across usage, support, billing and relationship exports, and which accounts are missing data. A person decides who looks into each.",
+      "path": "account-health-review/",
+      "directory": "https://fullypowered.ai/workflows/account-health-review/"
+    },
+    {
       "id": "cancellation-request-response",
       "name": "Cancellation request response",
       "version": "0.1.0",
@@ -42,6 +50,14 @@
       "summary": "Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.",
       "path": "client-status-update-preparation/",
       "directory": "https://fullypowered.ai/workflows/client-status-update-preparation/"
+    },
+    {
+      "id": "customer-journey-ending-review",
+      "name": "Customer journey ending review",
+      "version": "0.1.0",
+      "summary": "When a customer's journey ends on a sour note, your customer experience lead gets one review built from the records: whether the work was really finished at the final handoff, each difficult moment with its dates, the customer's own words, and follow-up options. The customer success lead chooses what to change.",
+      "path": "customer-journey-ending-review/",
+      "directory": "https://fullypowered.ai/workflows/customer-journey-ending-review/"
     },
     {
       "id": "customer-onboarding-plan",

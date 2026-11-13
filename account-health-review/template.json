@@ -1,0 +1,46 @@
+{
+  "id": "account-health-review",
+  "name": "Account health review across the book",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Each week or month, the customer success lead sees which accounts in the book need attention, what changed since the last period and the evidence, judged by your own warning signs across usage, support, billing and relationship exports, and which accounts are missing data. A person decides who looks into each.",
+  "directory": "https://fullypowered.ai/workflows/account-health-review/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "renewal-risk-review",
+    "churn-risk-and-save-plan",
+    "quarterly-business-review-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own account of how a customer success lead at a company under 200 people reviews the whole book each period: the organization's exports and warning signs as the only evidence, every sign shown with its record, missing data kept apart from good news, and the lead deciding which accounts to look into and who owns each."
+    }
+  ]
+}

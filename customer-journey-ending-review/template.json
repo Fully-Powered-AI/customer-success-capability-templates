@@ -1,0 +1,47 @@
+{
+  "id": "customer-journey-ending-review",
+  "name": "Customer journey ending review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When a customer's journey ends on a sour note, your customer experience lead gets one review built from the records: whether the work was really finished at the final handoff, each difficult moment with its dates, the customer's own words, and follow-up options. The customer success lead chooses what to change.",
+  "directory": "https://fullypowered.ai/workflows/customer-journey-ending-review/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "cancellation-request-response",
+    "churn-risk-and-save-plan",
+    "project-handover-readiness-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of customer success work: the reader, trigger, inputs, output and decision for reviewing how one customer's journey ends, and the method, rules, stop conditions, output format, tests and worked example written from how that work is done."
+    }
+  ]
+}
